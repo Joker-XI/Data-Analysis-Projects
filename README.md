@@ -18,7 +18,7 @@
 - `rfm_segments_result.csv` - 用户分群结果
 - `RFM_Dashboard.png` - 分析仪表盘
 
-![RFM Dashboard]([https://github.com/user-attachments/assets/你的RFM图片ID](https://github.com/user-attachments/assets/de308470-1144-4431-90ba-b12a78a2980b))
+![RFM Dashboard](https://github.com/user-attachments/assets/你的RFM图片ID](https://github.com/user-attachments/assets/de308470-1144-4431-90ba-b12a78a2980b)
 
 ---
 
